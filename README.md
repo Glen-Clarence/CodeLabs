@@ -1,6 +1,6 @@
 # accelerated-mobile-pages-foundations
 
-This folder contains the source code for a Google I/O 2016 codelab.
+This folder contains the source code for a Google accelarated mobile pages foundation codelab.
 
 ### License
 
